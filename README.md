@@ -1,4 +1,5 @@
-### MergeApp
+## MergeApp
+---
 Learning to deal with merges.
 
 - Step 1 will be to add a collaborator
